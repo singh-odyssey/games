@@ -1,2 +1,2 @@
 # games
-I have made some old 90's game using my current knowledge till this date .
+I have made a basic game using my current knowledge till this date .
