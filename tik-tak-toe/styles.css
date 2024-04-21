@@ -1,0 +1,87 @@
+*{
+    margin:0;
+    padding: 0;
+}
+body{
+    height: 100vh;
+    background-color: #312F2F;
+}
+.alignment{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.heading{
+    width: 100vw;
+    height: 20vh; 
+    color: #F6E8EA;
+}
+.note{
+ display: flex;
+ flex-direction: column;
+ color: #F6E8EA;
+row-gap: 10px;
+     
+}
+.buttons-parent{
+    margin-top: 10vh;
+}
+.buttons{
+    display: grid;
+    grid-template-columns: repeat(3, 2fr);
+    gap: 5px;
+    background-color: black;
+}
+.btn{
+        background-color: #B49082;
+        border-radius: 5px;
+        font-size: 50px;
+        width: 115px; 
+        height: 115px; 
+        display: flex; 
+        justify-content: center; 
+        align-items: center; 
+    
+}
+.btn:hover{
+    cursor: pointer;
+}
+#reset{
+    height: 25px;
+    width: 100px;
+    border-radius: 10px;
+    margin-top: 20px;
+    cursor: pointer;
+}
+.footor{
+    margin-top: 25px;
+    display: flex;
+    flex-direction: column;
+}
+@media screen and (max-width:480px ) {
+    .btn{
+        height: 100px;
+        width: 100px;
+    }
+}
+
+@media (min-width:481px) and (max-width:1100px ) {
+    .buttons{
+        height: 350px;
+        width: 350px;
+    }
+    #reset{
+        height: 40px;
+        
+    }
+}
+@media (min-width:1101px) and (max-width:1500px ) {
+    .buttons{
+        height: 350px;  
+        width: 350px;
+    }
+    #reset{
+        height: 40px;
+
+    }
+}
