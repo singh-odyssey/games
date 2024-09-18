@@ -1,11 +1,13 @@
 # games
 I have made a basic game using my current knowledge till this date .
 
-#LINKS TO PLAY GAMES--
+<h2>LINKS TO PLAY GAMES--</h2>
 
-# tic-tac-toe
-https://adityasejwar.github.io/tic-tak-toe/
 
-# simon
-https://adityasejwar.github.io/simon-game/ (game will only work on pc)<br>
-(this is a pattern based game , you have to repeat the pattern which is given by the game)
+| Game          | Play Button |
+|---------------|-------------|
+| Dice Game     | [![Play](https://img.shields.io/badge/Play-AliceBlue?style=for-the-badge&logo=playstation&logoColor=white)](https://adityasejwar.github.io/games/dice%20game/) |
+| Drum Game     | [![Play](https://img.shields.io/badge/Play-AliceBlue?style=for-the-badge&logo=playstation&logoColor=white)](https://adityasejwar.github.io/games/drum%20game/) |
+| Tic-Tac-Toe   | [![Play](https://img.shields.io/badge/Play-AliceBlue?style=for-the-badge&logo=playstation&logoColor=white)](https://adityasejwar.github.io/games/tik-tak-toe/) |
+| Simon Game    | [![Play](https://img.shields.io/badge/Play-AliceBlue?style=for-the-badge&logo=playstation&logoColor=white)](https://adityasejwar.github.io/games/simon%20game/) |
+
