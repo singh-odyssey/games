@@ -86,3 +86,12 @@ background-size: cover;
   margin: 10px;
   background-color: white;
 }
+.footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 5%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+}
